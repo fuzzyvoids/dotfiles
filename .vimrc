@@ -13,7 +13,7 @@ filetype indent on
 " Turn syntax highlighting on
 syntax on
 
-" Turn number lines on by default
+" Turn RELATIVE number lines on by default
 set relativenumber
 
 " Use highlighting and show matching words during a search
