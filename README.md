@@ -32,3 +32,9 @@ The dotfiles I use to configure my environment. Changes semi-frequently.
 * Use syntax highlighting
 * Use relative number highlighting
 * Use autocompletion with wildmenu
+
+## .taskrc
+_(Latest project)_
+### Key ideas:
+
+* Set theme to dark-blue
