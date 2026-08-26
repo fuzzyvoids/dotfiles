@@ -1,6 +1,13 @@
 # dotfiles
 The dotfiles I use to configure my environment. Changes semi-frequently.
 
+# Tools List
+
+- Bash
+- Tmux
+- Vim
+- Taskwarrior/Timewarrior
+
 ## .bashrc
 
 ### Key ideas:
