@@ -1,3 +1,11 @@
+" Requires the following plugins to be installed:
+" vim-airline
+" vim-airline-themes
+" wildmenu
+" Recommended plugins:
+" syntax plugins for markdown, python, bash, powershell, etc.
+" such as: vim-markdown-master, vim-polyglot
+
 " Select theme from vim-airline-themes
 let g:airline_theme='light'
 
