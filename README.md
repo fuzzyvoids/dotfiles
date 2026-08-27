@@ -40,8 +40,9 @@ The dotfiles I use to configure my environment. Changes semi-frequently.
 * Use relative number highlighting
 * Use autocompletion with wildmenu
 
-## .taskrc
+## .taskrc & timewarrior.cfg
 _(Latest project)_
 ### Key ideas:
 
 * Set theme to dark-blue
+* Define default workday
